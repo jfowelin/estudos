@@ -3,5 +3,4 @@
 Olá! Bem vindo ao meu livro de receitas:ocean: 
 
 - Strogonoff de Frango
-
-  ​
+- Pavê
